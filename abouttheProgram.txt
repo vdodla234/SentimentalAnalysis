@@ -1,0 +1,8 @@
+this R program does 2 things. It takes the most recent 500 tweets that contain a certain word and creates a word cloud from it
+the second part takes a twitter user and grabs their followers and friends to create a bubble chart.
+
+I found that R has many libraries that deals with creating graphs and manipulating data that it is hard to choose from. The syntax is easy to read and the functions have many parameters for great customization.
+I love the fact that you can do so much with one line of code for example creating simple and neat data frames without much syntax at all.
+
+What i found difficult about this is that it is hard to understand how to begin manipulating the data. Just reading the documentation of the api will leave you stumped. I feel the documntation of the api doesnt give a real good understanding on how it works and what exatly to plug into functions. Maybe some better examples would help this.
+
